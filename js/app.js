@@ -6,7 +6,7 @@
 
   const I18N = {
     en: {
-      pageTitle: "Zoomquilt WebGL — Infinite Zoom",
+      pageTitle: "Zoomrift — Infinite Zoom",
       loading: "Loading artwork…",
       streaming: (r, t) => `Streaming layers (${r}/${t})…`,
       webglError: "WebGL is not supported in this browser.",
@@ -40,7 +40,7 @@
       },
     },
     fa: {
-      pageTitle: "زوم‌کوئیلت WebGL — زوم بی‌نهایت",
+      pageTitle: "زوم‌ریفت — زوم بی‌نهایت",
       loading: "در حال بارگذاری اثر…",
       streaming: (r, t) => `در حال بارگذاری لایه‌ها (${r}/${t})…`,
       webglError: "مرورگر شما از WebGL پشتیبانی نمی‌کند.",

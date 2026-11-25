@@ -1,4 +1,4 @@
-# Zoomquilt WebGL (Static Edition)
+# Zoomrift (Static WebGL Edition)
 
 A pure static HTML/CSS/JS + WebGL infinite zoom viewer ported from the Zoomquilt Android app (`org.zoomquilt.zoomapp`), ready to deploy on **GitHub Pages** with zero build tools or backend.
 
