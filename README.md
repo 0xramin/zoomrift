@@ -2,7 +2,7 @@
 
 [English](#english) | [فارسی](#فارسی)
 
-Live Demo: **https://ramin-mahmoodi.github.io/zoomrift/**
+Live Demo: **https://0xramin.github.io/zoomrift/**
 
 ---
 
